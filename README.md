@@ -1,0 +1,2 @@
+# HousePricePrediction
+The project involves using the existing house sale data with 82 variables and 100 records and build a linear regression model to predict the future house sale prices. The model generated has been trained using 17 features/independent variables free of multicollinearity and the log transformation of the target variable and provides a R-squared value of 0.89 on the training dataset and 0.86 on the testing dataset.
